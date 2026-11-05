@@ -4,6 +4,10 @@
 *.pyc
 __pycache__
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6c96b788b725d878b233f091cdc5e72b36db1126
 # Backup files # 
 *.bak 
 
